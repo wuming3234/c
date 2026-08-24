@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="学生成绩管理系统/学生成绩管理系统.vcxproj" Id="3189d8ac-abe8-4127-9a82-860990aac64d" />
+</Solution>
